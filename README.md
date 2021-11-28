@@ -51,7 +51,7 @@ and save the file.
 
 Now, you can run the game. To do so, open CMD and navigate to the folder you just downloaded:
 
-    cd Downloads/TicTacToe-main
+    cd Downloads/TicTacToe-main/TicTacToe-main
     
 Then, use
 
