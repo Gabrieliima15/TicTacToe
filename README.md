@@ -8,7 +8,7 @@ The Tic Tac Toe board is numbered like a <b>keyboard numpad</b>, as shown below:
 
 ![board](https://user-images.githubusercontent.com/87576205/143781519-21d3f13e-a94f-42f9-a4fd-d46268c615f1.jpeg)
 
-The player's take turns to draw their symbol on the board, by choosing a number corresponding to the desired location.
+The players take turns to draw their symbol on the board, by choosing a number corresponding to the desired location.
 
 ## Getting Started
 Running the game is very simple, you only <b>need to have Python installed.</b>
