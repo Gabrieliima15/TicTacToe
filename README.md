@@ -1,6 +1,12 @@
 # TicTacToe
 Author: Gabriel Lima
 
+## Table of Contents
+- [About](#about)
+- [Getting Started](#getting-started)
+    - [Linux](#linux)
+    - [Windows](#windows)
+
 ## About
 This is one of the first projects I built when I first started learning Python. It's a simple local multiplayer Tic Tac Toe game, made with OOP.
 
